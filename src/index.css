@@ -28,7 +28,7 @@ html {
 }
 
 .head-text {
-  @apply xl:text-[10rem] text-[6rem] xl:leading-[11rem] leading-[7rem] font-black text-black;
+  @apply xl:text-[7rem] text-[5rem] xl:leading-[8rem] leading-[7rem] font-black text-black;
 }
 
 @media only screen and (min-width: 330px) and (max-width: 768px) {
