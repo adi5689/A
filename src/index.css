@@ -33,7 +33,7 @@ html {
 
 @media only screen and (min-width: 330px) and (max-width: 768px) {
   .head-text {
-    @apply xl:text-[10rem] text-[2.5rem] xl:leading-[11rem] leading-[2.5rem] font-black text-black;
+    @apply xl:text-[7rem] text-[2.5rem] xl:leading-[8rem] leading-[2.5rem] font-black text-black;
   }
   .home-content {
     @apply gap-2.5;
