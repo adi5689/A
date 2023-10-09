@@ -27,7 +27,7 @@ const Home = () => {
 
                     <motion.div className='home-content' {...headContainerAnimation}>
                         <motion.div {...headContainerAnimation}>
-                            <h1 className='head-text'>
+                            <h1 className='head-text text-black'>
                                 Design <br/> your own <br  className='xl:block hidden'/>
                                     Funk!.
                             </h1>
