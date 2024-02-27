@@ -35,7 +35,7 @@ Welcome to the T-Shirt Design App! This application allows users to create, cust
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/tshirt-design-app.git
+   git clone https://github.com/adi5689/A.git
    ```
 2. Navigate to the project directory:
    ```
